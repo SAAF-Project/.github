@@ -4,7 +4,7 @@
      next version of the standards. Keep it short: a proposal that makes the standards simpler scores higher. -->
 
 ## Type
-<!-- Keep one. -->
+<!-- Tick one: put an x between the brackets. -->
 - [ ] Change to an existing standard
 - [ ] New standard
 - [ ] Removing or merging a standard
@@ -13,7 +13,7 @@
 <!-- Which of the nine (README, agent.yaml, AUDIT-CRITERIA.md, SECURITY.md, LICENSE, tests, dependencies, CI, CODEOWNERS), or "new". -->
 
 ## The problem, with evidence
-<!-- What goes wrong today? Link a real repo, a finding from Session 10 or a review. One link is a start; two are better. -->
+<!-- What goes wrong today? Name a real repo and file, an issue or pull request, or a finding from your own Session 10 list. A link helps; a clear reference is enough. One case is a start; two are better. -->
 
 ## The change
 <!-- What changes, in one or two sentences. The diff shows the rest. -->
